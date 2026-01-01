@@ -23,3 +23,10 @@ nvm ls-remote
 # 安装
 nvm install 24.12.0
 ```
+
+# git config
+```bash
+git config --global user.name "liuyuanepng"
+git config --global user.email "liuyuanpeng@outlook.com"
+ssh-keygen -t ed25519 -C "liuyuanpeng@outlook.com"
+```
